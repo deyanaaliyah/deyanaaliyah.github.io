@@ -16,7 +16,7 @@ h4,
 h5,
 h6 {
   font-weight: 500;
-  color: white;
+  color: red;
 }
 input {
   width: 160px;
@@ -30,7 +30,7 @@ footer {
 
   margin-right: auto;
   margin-left: auto;
-  width: 11.333%;
+  width: 13.333%;
 }
 footer h5 {
   font-family: Avenir;
