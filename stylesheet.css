@@ -57,6 +57,7 @@ footer h5 {
   border: 2px solid #fff;
   font-weight: 600;
   font-size: large;
+  padding: 7px;
 }
 .btn:hover {
   background-color: #fff;
