@@ -1,11 +1,9 @@
-## login page
+## My websites!
 
-click [this link](https://deyanaaliyah.github.io/) to try it out!
-
-
-There's no authenticator, so there's **no need for email or password**. Simply click the button to log in!
+click [this link](https://deyanaaliyah.github.io/) to preview some of my websites!
 
 
-___
-**TODO:**
-//to hide and show passwords
+
+Most of my website are written alongside a database – which means these are not functional; they're static.
+
+Thanks for watching!
