@@ -274,14 +274,14 @@ input {
     margin-bottom: 10%;
   }
   nav ul {
+    width: 33.333%;
+    margin-left: auto;
+    margin-right: auto;
     flex-direction: column;
   }
   nav ul li {
-    width: 50%;
-    margin-left: auto;
-    margin-right: auto;
-    margin-bottom: 5%;
-    padding-top: 5%;
+    margin-bottom: 10%;
+    margin-top: 10%;
   }
   #navlogo {
     display: none;
@@ -342,4 +342,13 @@ input {
   #slideshow {
     width: 100%;
   }
+
+  .specific-movie {
+    display: block;
+    width: 220px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10%;
+  }
+
 }
