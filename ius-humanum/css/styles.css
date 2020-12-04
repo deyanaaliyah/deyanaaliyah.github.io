@@ -454,6 +454,9 @@ header p a {
     font-weight: 400;
     color: #004c84;
   }
+  header{
+    padding: 3em 1em;
+  }
   nav {
     margin-bottom: 25%;
   }
