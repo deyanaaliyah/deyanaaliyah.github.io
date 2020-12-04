@@ -81,9 +81,6 @@ details[open] .control-icon-expand {
     margin-top: 13%;
     font-weight: 300;
   }
-  #we{
-    margin-bottom: -85px;
-  }
   details {
     width: 75%;
     min-height: 5px;
@@ -98,7 +95,7 @@ details[open] .control-icon-expand {
     transition: all 0.3s;
   }
   details[open] {
-    margin-bottom: 26.6%;
+    margin-bottom: 28%;
     min-height: 50px;
     background-color: #f6f7f8;
     box-shadow: 2px 2px 20px #f6f7f8;
