@@ -4,6 +4,6 @@ click [this link](https://deyanaaliyah.github.io/) to preview some of my website
 
 
 
-Most of my website are written alongside a database – which means these are not functional; they're static.
+all websites are written in pure html and css.
 
-Thanks for watching!
+thanks for watching!
