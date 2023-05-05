@@ -25,6 +25,10 @@ body {
     border-radius: 100%;
 }
 
+.img img {
+    height: inherit;
+}
+
 .profile {
     display : flex
 }
